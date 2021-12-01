@@ -17,6 +17,8 @@ namespace DragNdrop
             InitializeComponent();
         }
 
+        // hue
+
         bool dragging = false;
         Point dragStart = new Point(0, 0);
 
